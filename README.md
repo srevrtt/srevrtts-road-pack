@@ -9,3 +9,5 @@ The pack uses glazed terracotta currently as its main block for roads. Unless yo
 ## **What is this repo for?**
 
 This is really for reporting issues or feature requests with the pack. Pull reqeusts are not allowed.
+
+**This is the repo for 1.20 development!!**
