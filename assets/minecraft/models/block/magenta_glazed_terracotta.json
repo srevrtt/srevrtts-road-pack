@@ -3,10 +3,10 @@
   "textures": {
     "particle": "block/magenta_glazed_terracotta",
     "up": "block/magenta_glazed_terracotta",
-    "down": "block/concrete_gray",
-    "north": "block/concrete_gray",
-    "south": "block/concrete_gray",
-    "west": "block/concrete_gray",
-    "east": "block/concrete_gray"
+    "down": "block/gray_concrete",
+    "north": "block/gray_concrete",
+    "south": "block/gray_concrete",
+    "west": "block/gray_concrete",
+    "east": "block/gray_concrete"
   }
 }
